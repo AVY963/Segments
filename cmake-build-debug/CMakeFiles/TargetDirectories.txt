@@ -1,0 +1,3 @@
+/Users/akritasvladimir/CLionProjects/Segments/cmake-build-debug/CMakeFiles/2.dir
+/Users/akritasvladimir/CLionProjects/Segments/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akritasvladimir/CLionProjects/Segments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
